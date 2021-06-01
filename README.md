@@ -1,1 +1,2 @@
 # hello-world
+In this course I would like to gain the skills necessary for me to be able to make my ideas come to reality. Web Design and Development are very powerful tools to be added to my skillset. Also, our professor is extremely knowledgeable and patience.
